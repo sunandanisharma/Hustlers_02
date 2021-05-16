@@ -17,7 +17,7 @@ function Login() {
 
           <Link to='/Register' > 
           <button className="Register-button">   Register
-       <spam className="hexode">&#x2192;</spam> </button> </Link>
+       <spam className="rbutton">&#x2192;</spam> </button> </Link>
        </div>
    </div>  
   );
