@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.667" height="16" viewBox="0 0 18.667 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Icon_metro-arrow-right" data-name="Icon metro-arrow-right" class="cls-1" d="M16.108,21.394l6.667-6.667a1.333,1.333,0,0,0,0-1.886L16.108,6.175A1.333,1.333,0,0,0,14.223,8.06l4.391,4.391H5.832a1.333,1.333,0,0,0,0,2.667H18.613l-4.391,4.391a1.333,1.333,0,1,0,1.886,1.886Z" transform="translate(-4.499 -5.784)"/>
+</svg>

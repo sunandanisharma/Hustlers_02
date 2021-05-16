@@ -1,0 +1,101 @@
+body {
+    /* background: url("../../Assets/hv.svg"); */
+    background-size:cover;
+  }
+
+.Herosection.h1{
+
+        display: flex;
+        justify-content: space-between;
+        margin: 20px 50px 0px 70px ;
+        /* position: absolute; */
+    }
+        .heading {
+            color: #2D3748;
+        }
+ 
+        .navbar{
+            display: flex;
+            justify-content: center;
+            list-style: none;
+            font-size: 15px;
+            text-decoration: none;
+            align-items: center;
+            margin-right: 50px;
+       }
+        .navelement {
+            margin-left: 15px;
+            color: #718096;
+            font-size: 12px;
+        }
+ 
+        .login-button {
+            padding: 8px;
+            margin-left: 20px;
+            margin-right: 10px;
+            background-color: white;
+            border-radius: 5px;
+            color: #2D3748;
+        }
+ 
+        .Register-button{
+            padding: 8px;
+            color: white;
+            background-color: #2D3748;
+            border-radius: 5px;
+            margin-left: 20px;
+ 
+    }
+            .hexode {
+                margin-left:8px;
+            }
+       
+ 
+    .headingone {
+        text-align: center;
+        margin-top: 80px;
+        color: #2D3748; }
+ 
+        .head1 {
+            color: #1B9CFC;
+        }
+   
+ 
+    .herobutton {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px; }
+ 
+        .hustlers-village {
+            color: #718096;
+            background-color: #EDF2F7;
+            box-shadow: #00000029;
+            opacity: 1;
+            padding: 8px;
+            border-radius: 5px;
+            border: 0px;
+           /* margin-left: 500px; */
+           margin-right: 10px   ;
+        }
+ 
+        .beginning {
+            background-color: #1B9CFC;
+            color: #FFFFFF;
+            opacity: 1;
+            padding: 8px;
+            border-radius: 5px;
+            border: 0px;
+            margin-left: 11px;
+        }
+   
+ 
+    .headpara {
+        text-align: center;
+        color: #718096;
+        margin-top: 15px;
+        opacity: 1;
+        letter-spacing: 0px;
+        font-size: 11px;
+    }
+ 
+

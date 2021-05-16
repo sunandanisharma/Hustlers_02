@@ -1,0 +1,132 @@
+.title {
+    margin-top: 20px;
+  } 
+.cardnew {
+    margin-top: 2rem;
+    }
+.section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+    /* // justify-content: center; */
+
+ .initialsec {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        text-align: center;
+        margin: 50px 200px 50px 430px;
+        height: 500px;
+        width: 500px;
+        justify-content: center; 
+    }
+.Github {
+        background: #2d3748;
+        color: #fff;
+        margin: 10px;
+        padding: 2px 10px 2px 10px;
+    }
+.icons {
+        display: flex;
+        justify-content: center;
+        margin: 20px;
+     }
+ .Google {
+        /* // display: flex; */
+        background: #f7fafc;
+        color: #2d3748;
+        margin: 10px;
+        padding: 2px 10px 2px 10px;
+        /* // justify-content: space-evenly; */
+    }
+    
+.Dribble {
+        background: #ed64a6;
+        color: #fff;
+        margin: 10px;
+        padding: 2px 10px 2px 10px;
+    }
+
+hr {
+width: 5%;
+margin-left: 500px;
+}
+.desc {
+    /* // margin-top: 1.2rem; */
+    margin-top: -10px;
+    font-size: 12.5px;
+}
+
+
+
+.mailid{
+        display: flex;
+        flex-direction: column;
+       }
+      .content{
+        margin-bottom: 0.5rem;
+        font-weight: 500;       
+        margin-left: -250px;
+      }
+      
+      .input {
+        background: #edf2f7;
+        border: none;
+        padding: 0.7rem 1rem;
+        border-radius: 10px;
+        margin-right: 100.5px;
+        margin-left: 100px;
+      }
+   
+    .Pass {
+      display: flex;
+      flex-direction: column;
+      margin-left: -250px;
+}
+      .desc1 {
+        margin-bottom: 0.5rem;
+        font-weight: 500;        
+        margin-left: 30px;
+        margin-top: 20px;
+      }
+
+      .forpas {
+        color: #1b9cfc;
+        font-weight: 500;
+        font-size: 0.9rem;
+        margin-left: 430px;
+        margin-top: -20px;
+      }
+
+      .passinput {
+        background: #edf2f7;
+        border: none;
+        padding: 0.7rem 1rem;
+        border-radius: 0.5rem;
+        margin-right: 100.5px;
+        margin-left: 350px;
+      }
+    
+
+            
+    .new{
+      background: #2d3748;
+      color: #fff;
+      padding: 0.8rem 0.6rem;
+      border: none;
+      border-radius: 0.3rem;
+      margin-top: 20px;
+      font-weight: 500;
+      width: 330px;
+      cursor: pointer;
+     margin-left: 30px;
+    }
+
+    .sign{
+    margin-top: 20px;
+    font-size: 12.5px; }
+                  
+     .sign {
+       color: #1b9cfc;
+      font-weight: 500;
+    }
+ 

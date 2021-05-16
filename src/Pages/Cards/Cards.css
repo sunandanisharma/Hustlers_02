@@ -1,0 +1,41 @@
+.H1 {
+  font-size: 24px;
+  text-align: center;
+}
+.maincard {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 4.8px 0;
+}
+  .cardsection {
+    box-shadow: 0px 0px 10px #0000001a;
+    width: 470px;
+    margin-top: 32px;
+    padding: 48px;
+  }
+  .card {
+    display: flex;
+    justify-content: center;
+  }
+  .pic {
+    height: 80px;
+    margin-bottom: 8px;
+  }
+  
+  .cardone {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0px 0px 10px #0000001a;
+    margin-top: 32px;
+    padding: 19px 1px;
+  }
+
+  .cardsection2 {
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 0px 10px #0000001a;
+    margin: 32px;
+    padding: 19px 1px;
+  }
