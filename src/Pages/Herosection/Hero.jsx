@@ -1,5 +1,6 @@
 import React from "react";
 import "./Hero.css";
+import { Link } from 'react-router-dom'
 // import Herovector from '../../Assets/Herovector.svg';
 
 function Hero() {
@@ -17,10 +18,12 @@ function Hero() {
       <button className="hustlers-village"><b>hustlervillage.com/ </b>
       <spam>your-name</spam></button>
       <div>
-    
-      <button className="beginning">Start Hustling
+      <Link to='/Login'>
+        <button className="beginning">Start Hustling
        <spam className="hexode">&#x2192;</spam>
-      </button> </div>
+       </button> 
+      </Link>
+      </div>
       </div>
       <p className="headpara">It's free, and takes less than a minute </p>
       </div>
